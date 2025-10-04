@@ -1,0 +1,12 @@
+[submodule "Act01"]
+	path = Act01
+	url = https://github.com/AngelLizardo-Waggamer/Act01-DevAndroid.git
+[submodule "Act02"]
+	path = Act02
+	url = https://github.com/AngelLizardo-Waggamer/Act02-DevAndroid.git
+[submodule "Act03"]
+	path = Act03
+	url = https://github.com/AngelLizardo-Waggamer/Act03-DevAndroid.git
+[submodule "Act04"]
+	path = Act04
+	url = https://github.com/AngelLizardo-Waggamer/Act04-DevAndroid.git
