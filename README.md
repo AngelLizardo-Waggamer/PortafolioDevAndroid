@@ -22,3 +22,6 @@ Considero que el haber explorado los diferentes eventos de usuario que tanto Bot
 
 ## FragmentsApp
 Considero que el haber practicado la creación de fragmentos, mejor conocidos en mis adentros como mini-vistas, me ayudó a conceptualizar nuevas formas de mostrar información al usuario, así como de hacer dinámicas las aplicaciones sin la necesidad de crear tantas vistas principales diferentes.
+
+## UIMenu
+Considero que el explorar una nueva plantilla con un "boilerplate" diferente a lo habitual me apoyó a poder ampliar mi vista en cómo funcionan en realidad las aplicaciones del mundo real más que con únicamente vistas separadas. Además, creo que el probar tantos controles de usuario me hizo poder conceptualizar UIs más complejas para mis futuras aplicaciones.
