@@ -10,6 +10,7 @@ Autor: Ángel A. H. Lizardo
 2. Actividad 2: LayoutAPP - Aplicación con varias UIs con diferentes tipos de Layouts
 3. Actividad 3: TouchApp - Aplicación para probar los eventos de botones y TextInputs.
 4. Actividad 4: FragmentsApp - Aplicación con una vista principal y varios fragmentos sobre Valorant
+5. Actividad 5: UIMenu - Aplicación con SideBarMenu de varios controles con información y ejemplos de ellos
 
 ## HolaMundoApp 
 Considero que el haber platicado ese día sobre la estructura del IDE Android Studio y haber conocido un poco más sobre la estructura de los proyectos me ayudó a no solo conceptualizar las acciones que quisiera realizar, sino también saber dónde encontrar las herramientas necesarias para llevarlos a cabo.
