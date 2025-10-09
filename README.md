@@ -26,3 +26,6 @@ Considero que el haber practicado la creación de fragmentos, mejor conocidos en
 
 ## UIMenu
 Considero que el explorar una nueva plantilla con un "boilerplate" diferente a lo habitual me apoyó a poder ampliar mi vista en cómo funcionan en realidad las aplicaciones del mundo real más que con únicamente vistas separadas. Además, creo que el probar tantos controles de usuario me hizo poder conceptualizar UIs más complejas para mis futuras aplicaciones.
+
+## Menu Opciones
+Considero que esta actividad me apoyó a reforzar un poco más mi conocimiento sobre el manejo de la plantilla de SideBarMenu Activities. Además, amplió mi visión sobre el uso que puede tener en aplicaciones reales y su estrecha relación con la experiencia del usuario al usar la aplicación. 
