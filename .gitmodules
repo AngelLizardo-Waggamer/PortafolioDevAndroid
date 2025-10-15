@@ -16,3 +16,6 @@
 [submodule "Act06"]
 	path = Act06
 	url = https://github.com/AngelLizardo-Waggamer/Act06-DevAndroid.git
+[submodule "Act07"]
+	path = Act07
+	url = https://github.com/AngelLizardo-Waggamer/Act07-DevAndroid.git

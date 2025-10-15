@@ -11,6 +11,8 @@ Autor: Ángel A. H. Lizardo
 3. Actividad 3: TouchApp - Aplicación para probar los eventos de botones y TextInputs.
 4. Actividad 4: FragmentsApp - Aplicación con una vista principal y varios fragmentos sobre Valorant
 5. Actividad 5: UIMenu - Aplicación con SideBarMenu de varios controles con información y ejemplos de ellos
+6. Actividad 6: MenuOpciones - Aplicación son SideBarMenu con una pantalla de Login, otra con un DatePicker y otra personalizada.
+7. Actividad 7: MyMovies - Aplicación que hace uso de RecyclerView para mostrar películas.
 
 ## HolaMundoApp 
 Considero que el haber platicado ese día sobre la estructura del IDE Android Studio y haber conocido un poco más sobre la estructura de los proyectos me ayudó a no solo conceptualizar las acciones que quisiera realizar, sino también saber dónde encontrar las herramientas necesarias para llevarlos a cabo.
@@ -29,3 +31,6 @@ Considero que el explorar una nueva plantilla con un "boilerplate" diferente a l
 
 ## Menu Opciones
 Considero que esta actividad me apoyó a reforzar un poco más mi conocimiento sobre el manejo de la plantilla de SideBarMenu Activities. Además, amplió mi visión sobre el uso que puede tener en aplicaciones reales y su estrecha relación con la experiencia del usuario al usar la aplicación. 
+
+## My Movies
+Considero que esta actividad me enseñó un poco más sobre la lógica que varias aplicaciones de teléfono utilizan para mostrar datos de manera dinámica a los usuarios. Además, el aplicar un Adapter con el RecyclerView, así como Intents para manejar el paso de datos entre vistas fue un reto que expandió mi panorama sobre las posibilidades para la creación de nuevas aplicaciones móviles.
