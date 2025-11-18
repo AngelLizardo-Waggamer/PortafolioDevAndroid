@@ -14,6 +14,7 @@ Autor: Ángel A. H. Lizardo
 6. Actividad 6: MenuOpciones - Aplicación son SideBarMenu con una pantalla de Login, otra con un DatePicker y otra personalizada.
 7. Actividad 7: MyMovies - Aplicación que hace uso de RecyclerView para mostrar películas.
 8. Actividad 8: AppListados (TODOsApp) - Aplicación análoga a la actividad 7 pero con un tema distinto.
+9. Actividad 9: SideBarTemplate - Aplicación base para los proyectos que siguen
 
 ## HolaMundoApp 
 Considero que el haber platicado ese día sobre la estructura del IDE Android Studio y haber conocido un poco más sobre la estructura de los proyectos me ayudó a no solo conceptualizar las acciones que quisiera realizar, sino también saber dónde encontrar las herramientas necesarias para llevarlos a cabo.
@@ -38,3 +39,6 @@ Considero que esta actividad me enseñó un poco más sobre la lógica que varia
 
 ## TODOsApp
 Al momento de realizar esta actividad traté de seguir buenas prácticas para mi código y generar una estructura modular para que este fuera mucho más simple de comprender y mantener. Además, el que haya implementado nuevamente de cero la estructura con un RecyclerView me hizo comprender de manera más profunda el funcionamiento de las clases que se requieren para implementarlo. Pero lo que creo que es más importante de esta actividad fue el uso de Intents y ActivityLauncher pues considero que me abrió un poco más el panorama sobre nuevas formas de implementar aplicaciones más complejas.
+
+## SideBarTemplate
+Considero que la realización de esta actividad contribuye positivamente en cómo presento mis proyectos pues el que tengan una identidad propia permite que sea fácil de identificar quién hizo la aplicación. Además, el que mis proyectos de ahora en adelante tengan un estilo constante también agiliza el proceso de desarrollo pues únicamente se debe de personalizar un poco para lograr tener un diseño bueno.
