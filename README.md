@@ -15,6 +15,7 @@ Autor: Ángel A. H. Lizardo
 7. Actividad 7: MyMovies - Aplicación que hace uso de RecyclerView para mostrar películas.
 8. Actividad 8: AppListados (TODOsApp) - Aplicación análoga a la actividad 7 pero con un tema distinto.
 9. Actividad 9: SideBarTemplate - Aplicación base para los proyectos que siguen
+10. Actividad 10: Rick y Morty API Consumer - Aplicación consumidora de la API gratuita de Rick y Morty con Retrofit
 
 ## HolaMundoApp 
 Considero que el haber platicado ese día sobre la estructura del IDE Android Studio y haber conocido un poco más sobre la estructura de los proyectos me ayudó a no solo conceptualizar las acciones que quisiera realizar, sino también saber dónde encontrar las herramientas necesarias para llevarlos a cabo.
@@ -42,3 +43,6 @@ Al momento de realizar esta actividad traté de seguir buenas prácticas para mi
 
 ## SideBarTemplate
 Considero que la realización de esta actividad contribuye positivamente en cómo presento mis proyectos pues el que tengan una identidad propia permite que sea fácil de identificar quién hizo la aplicación. Además, el que mis proyectos de ahora en adelante tengan un estilo constante también agiliza el proceso de desarrollo pues únicamente se debe de personalizar un poco para lograr tener un diseño bueno.
+
+## Rick y Morty API Consumer
+Considero que después de realizar esta aplicación pude aprender varias cosas valiosas dentro del desarrollo de Android nativo como lo son los Bundles para pasar parámetros entre fragmentos y no entre Actividades con Intents, por otra parte la importancia de la definición correcta de los fragmentos dentro de mobile_navigation.xml, y finalmente el cómo se pueden generar objetos personalizados con drawables como backgrounds. Por otro lado, el trabajar con Retrofit simplificó bastante el proceso de realizar consultas y también el de obtener los valores de estas ya que venían fuertemente tipados. Esta aplicación me enseñó varias cosas, aunque también me sacó varias canas verdes jaja, y por lo mismo considero que fue valiosa para poder mejorar la calidad de mis proyectos de ahora en adelante. 
