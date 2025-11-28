@@ -16,6 +16,7 @@ Autor: Ángel A. H. Lizardo
 8. Actividad 8: AppListados (TODOsApp) - Aplicación análoga a la actividad 7 pero con un tema distinto.
 9. Actividad 9: SideBarTemplate - Aplicación base para los proyectos que siguen
 10. Actividad 10: Rick y Morty API Consumer - Aplicación consumidora de la API gratuita de Rick y Morty con Retrofit
+11. Actividad 11: App con BD
 
 ## HolaMundoApp 
 Considero que el haber platicado ese día sobre la estructura del IDE Android Studio y haber conocido un poco más sobre la estructura de los proyectos me ayudó a no solo conceptualizar las acciones que quisiera realizar, sino también saber dónde encontrar las herramientas necesarias para llevarlos a cabo.
@@ -46,3 +47,6 @@ Considero que la realización de esta actividad contribuye positivamente en cóm
 
 ## Rick y Morty API Consumer
 Considero que después de realizar esta aplicación pude aprender varias cosas valiosas dentro del desarrollo de Android nativo como lo son los Bundles para pasar parámetros entre fragmentos y no entre Actividades con Intents, por otra parte la importancia de la definición correcta de los fragmentos dentro de mobile_navigation.xml, y finalmente el cómo se pueden generar objetos personalizados con drawables como backgrounds. Por otro lado, el trabajar con Retrofit simplificó bastante el proceso de realizar consultas y también el de obtener los valores de estas ya que venían fuertemente tipados. Esta aplicación me enseñó varias cosas, aunque también me sacó varias canas verdes jaja, y por lo mismo considero que fue valiosa para poder mejorar la calidad de mis proyectos de ahora en adelante. 
+
+## App con BD
+Posterior a la realización de esta actividad, la cual considero una de mis favoritas de este curso, considero que aprendí muchísimas cosas nuevas tanto por el proceso que se debe de seguir para manejar una base de datos interna con SQLite en Android, como también de cosas que yo creía que dominaba y que al final terminé redescubriendo como la navegación por medio de acciones, el paso de parámetros por Bundles entre fragmentos y cómo estos se deben de configurar bien en el mobile_navigation para evitar posteriores errores, el cómo se puede dibujar el contenido en pantalla hasta la orilla del teléfono y ajustar el contenido en pantalla para evitar las regiones del sistema como la navigation bar inferior, etc. Me la pasé bien (al menos la mayoría del tiempo), tuve sueño, **mucho sueño**, pero logré que las operaciones CRUD funcionaran y eso me hizo sentirme orgulloso de la aplicación. La siguiente actividad será la continuación de el resultado de esta actividad, y estoy seguro que cuando escriba el comentario de esa siguiente versión estaré todavía más feliz con el resultado final.
