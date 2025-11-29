@@ -31,3 +31,6 @@
 [submodule "Act11"]
 	path = Act11
 	url = https://github.com/AngelLizardo-Waggamer/Act11-DevAndroid
+[submodule "Act12"]
+	path = Act12
+	url = https://github.com/AngelLizardo-Waggamer/QuickInv.git

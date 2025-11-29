@@ -17,6 +17,7 @@ Autor: Ángel A. H. Lizardo
 9. Actividad 9: SideBarTemplate - Aplicación base para los proyectos que siguen
 10. Actividad 10: Rick y Morty API Consumer - Aplicación consumidora de la API gratuita de Rick y Morty con Retrofit
 11. Actividad 11: App con BD
+12. Actividad 12: Proyecto Final (QuickInv)
 
 ## HolaMundoApp 
 Considero que el haber platicado ese día sobre la estructura del IDE Android Studio y haber conocido un poco más sobre la estructura de los proyectos me ayudó a no solo conceptualizar las acciones que quisiera realizar, sino también saber dónde encontrar las herramientas necesarias para llevarlos a cabo.
@@ -50,3 +51,6 @@ Considero que después de realizar esta aplicación pude aprender varias cosas v
 
 ## App con BD
 Posterior a la realización de esta actividad, la cual considero una de mis favoritas de este curso, considero que aprendí muchísimas cosas nuevas tanto por el proceso que se debe de seguir para manejar una base de datos interna con SQLite en Android, como también de cosas que yo creía que dominaba y que al final terminé redescubriendo como la navegación por medio de acciones, el paso de parámetros por Bundles entre fragmentos y cómo estos se deben de configurar bien en el mobile_navigation para evitar posteriores errores, el cómo se puede dibujar el contenido en pantalla hasta la orilla del teléfono y ajustar el contenido en pantalla para evitar las regiones del sistema como la navigation bar inferior, etc. Me la pasé bien (al menos la mayoría del tiempo), tuve sueño, **mucho sueño**, pero logré que las operaciones CRUD funcionaran y eso me hizo sentirme orgulloso de la aplicación. La siguiente actividad será la continuación de el resultado de esta actividad, y estoy seguro que cuando escriba el comentario de esa siguiente versión estaré todavía más feliz con el resultado final.
+
+## Proyecto Final: QuickInv
+Con este proyecto concluí el maravilloso viaje que fue esta materia de Desarrollo de aplicaciones móviles en Android. Sin embargo, este proyecto específicamente me permitió experimentar de primera mano lo que es el verdadero desarrollo nativo en Android. Es la aplicación que considero que tiene la lógica más completa de entre todas las que realicé, aunque ciertamente le faltan algunos detalles importantes en cuanto a validaciones del lado del usuario para que ciertas excepciones en casos muy específicos sucedan. Lo que sí es que es cierto es que, a pesar de que me tardé bastante en realizarla, aprendí bastante sobre conceptos complejos y que considero que ampliaron mucho mi visión sobre lo que implica desarrollar aplicaciones móviles tanto en Java como también con algún otro framework como Flutter, mi favorito personal. En mucho resumen, fue toda una experiencia que me enseñó mucho y que espero poder seguir experimentando de ahora en adelante.
